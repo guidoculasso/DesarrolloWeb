@@ -1,0 +1,7 @@
+{
+    "emmet.includeLanguages": {
+        "html": "true"
+    },
+    "emmet.showSuggestionsAsSnippets": true,
+    "emmet.useInlineCompletions": true
+}
